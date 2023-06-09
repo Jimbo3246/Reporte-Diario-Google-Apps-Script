@@ -1,0 +1,29 @@
+{
+  "timeZone": "America/Lima",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "elimina",
+      "functionName": "elimina"
+    }, {
+      "menuName": "copiarPTPaPTP2ySHaSH2",
+      "functionName": "copiarPTPaPTP2ySHaSH2"
+    }, {
+      "menuName": "mesCorto",
+      "functionName": "mesCorto"
+    }, {
+      "menuName": "fallas",
+      "functionName": "fallas"
+    }, {
+      "menuName": "macro_1",
+      "functionName": "macro_1"
+    }, {
+      "menuName": "macro_2",
+      "functionName": "macro_2",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }]
+  }
+}
